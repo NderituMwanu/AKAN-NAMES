@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <style></style>
+        <title>AKAN NAMES</title>
+        <link href ="bootstrap-4.4.1-dist/css/bootstrap.css" rel="stylesheet" typ="text/css">
+        <link href= "style.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Yeseva+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Cormorant&display=swap" rel="stylesheet">
+        <div class="boxmodel">
+    </head>
+    <body>
+        
+            <div class="container">
+               
+                
+                <h1>Akan Names</h1>         
+                <img src ="man.jpg" alt="akan" class="center">
+                <p>
+                Akan names are derived from Ghanean culture.<br>Frequently in Ghana, children are given their
+                first name as a "day name" <br>which corresponds to the day in the week they were born.Enter your<br> 
+                birth date and gender in the form below to get to know your AKAN name.<br>
+                </p>         
+
+                <div class = "row">
+                    <div class = "col-xs-4">
+                        <h3>MALE NAMES</h3>
+                        <p>
+                            According to the Ghanean culture,<br>
+                            each day of the week has an Akan name.<br>
+                        </p>
+
+                        <div class="col-xs-4">
+                            <h3>LIST OF NAMES</h3>
+                            <p>
+                                MONDAY TUESDAY WEDNESDAY<br> THURSDAY FRIDAY SATURDAY SUNDAY.
+                            </p>
+                
+        </div>
+        <form onsubmit= "return false">
+            BIRTH DATES:<br><p>Day</p>
+            <input type = "number" name ="Date" id="date" placeholder="Enter the Day" max = "31" required><br><br>
+            <p>Month</p>
+            <input type = "number" name = "month" id="month" placeholder="Enter the Month" max="12" required><br><br>
+            <p>Year</p>
+            <input type = number name = "Year" id="year" placeholder="Enter the Year" min= "1970" max="2020"required><br>
+            gender:<br>
+            <input type = "radio"  id="gender"name = "gender" value = "male">MALE <br>
+            <input type = "radio"  id="gender"name = "gender" value = "female">FEMALE<br>
+            <input type = "submit" value = "submit" onclick="getName()">
+        </form>
+        <p id ="demo">
+        
+        
+            <script src="main.js"></script>
+
+       
+    </body>
+</html>

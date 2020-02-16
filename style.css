@@ -1,9 +1,22 @@
+.boxmodel{
+    width:1200px;
+    border:1px black;
+    background-color: blueviolet;
+}
 body {
     background-color:white;
 }
-
-h2{
-    font-family: 'Playfair Display SC', serif;
+div{
+    background-color:ivory ;
+    
+}
+h1{
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
+}
+h3{
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
 }
 form{
     text-align:center;
@@ -17,7 +30,7 @@ form{
     width:1000px;
 }
 
-h2{
-    text-align: center;
+p{
+    font-family: 'Cormorant', serif;
 }
 
