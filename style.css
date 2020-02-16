@@ -28,6 +28,7 @@ form{
     text-align:center;
     padding-bottom: 100px;
     float: none;
+    box-sizing; border-box;
 
 }
 
@@ -60,4 +61,11 @@ p{
 
 ::placeholder{
     color:orange;
+}
+
+
+button{
+    font-size: 25;
+    color:blue:
+
 }
