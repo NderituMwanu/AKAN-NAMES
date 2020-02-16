@@ -22,11 +22,13 @@
                 <br><br>
                 <div class = "row">
                 <div class = "col-xs-4">
-                    <h3>~ Male Names ~</h3>
+                    <h3>~ How It works ~</h3>
                         <p>
                             <center>
-                            According to the Ghanean culture,<br>
-                            each day of the week has an Akan name.<br>
+                            Enter your Date of Birth, the month, as a number, and your year too, <a href= "#Day">below.</a><br>
+                            Select your gender and click on the submit button.<br>
+                            You will get a pop up message showing you your<br>
+                            Akan Name.
                             </center>
                         </p><br><br>
                 <div class="col-xs-4">
@@ -44,11 +46,11 @@
                 
                     <div class ="form" onsubmit= "return false">
                         BIRTH DATES:<br><p id ="Day"></p>
-                        <input type = "number" name ="Date" id="date" placeholder="Enter the Day" max = "31" required><br><br>
+                        <input type = "number" name ="Date" id="date" placeholder="Enter the Day" max = 31 required><br><br>
                         <p>Month</p>
-                        <input type = "number" name = "month" id="month" placeholder="Enter the Month" max="12" required><br><br>
+                        <input type = "number" name = "month" id="month" placeholder="Enter the Month" max= 12 required><br><br>
                         <p>Year</p>
-                        <input type = number name = "Year" id="year" placeholder="Enter Year" min= "1970" max="2020"required><br>gender:<br>
+                        <input type = number name = "Year" id="year" placeholder="Enter Year" min= 1970 max = 2020 required><br>gender:<br>
                         <input type = "radio"  id="gender"name = "gender" value = "male">MALE <br>
                         <input type = "radio"  id="gender"name = "gender" value = "female">FEMALE<br>
                         <input type = "submit" value = "submit" onclick="getName()">
