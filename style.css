@@ -45,5 +45,11 @@ p{
 .row{
     padding-left: 250px;
     padding-bottom: 50px; 
+    font-family:'Cormorant', serif ;
+    font-size: 20px;
+}
+
+.p{
+    font-family:'Cormorant', serif ;
 }
 
