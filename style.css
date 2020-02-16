@@ -1,0 +1,23 @@
+body {
+    background-color:white;
+}
+
+h2{
+    font-family: 'Playfair Display SC', serif;
+}
+form{
+    text-align:center;
+    padding-left: 450;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:1000px;
+}
+
+h2{
+    text-align: center;
+}
+
