@@ -8,29 +8,29 @@ Children are names after the day they were born
 ## AUTHOR
 Gerald Nderitu Mwanu
 ----
-## SETUP INSTRUCTION<br>
+## SETUP INSTRUCTION;
 You can access the link to the website directly by clicking on it in the project decription at this link https://github.com/NderituMwanu/AKAN-NAMES.
 
 As a second option, open your terminal and type git clone then paste this link https://github.com/NderituMwanu/AKAN-NAMES. 
-You have an exact copy of the repository on your local machine. Headover to index.html by typing cd <b>location of your storage/download<b>, then type in ls. After that type code . or atom . to open and view the code in VS Code or atom respectively. Similarly, you can directly double click the index.html file to open the page on your default set browser.<br>
+You have an exact copy of the repository on your local machine. Headover to index.html by typing cd location of your storage/download, then type in ls. After that type code . or atom . to open and view the code in VS Code or atom respectively. Similarly, you can directly double click the index.html file to open the page on your default set browser.<br>
 ----
-## BDD
-Enter the specific day of your birth.
-----
-Enter the month you were born.
-----
-Enter the specific year you were born.
-----
-Select your gender by clicking on the radio buttons.
-----
+## BDD;
+Enter the specific day of your birth.<br>
+
+Enter the month you were born.<br>
+
+Enter the specific year you were born.<br>
+
+Select your gender by clicking on the radio buttons.<br>
+
 Click submit and a pop up message appears listing your name in Akan. 
-----
-## TECHNOLOGIES USED
+
+## TECHNOLOGIES USED;
 Technologies incorporated in this INdependent Project include some web based application development languages such as Javascript, HTML, a custom made- CSS style sheet and a little Bootstrap.
 ##CONTACT INFORMATION<br>
 email: mwanugerald@gmail.com
 
-## LICENSE AND COPYRIGHT
+## LICENSE AND COPYRIGHT;
 Copyright 2020 GERALD NDERITU MWANU
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
