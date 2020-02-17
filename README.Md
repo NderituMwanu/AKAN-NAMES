@@ -9,7 +9,7 @@ Children are names after the day they were born
 Gerald Nderitu Mwanu
 ----
 ## SETUP INSTRUCTION;
-You can access the link to the website directly by clicking on it in the project decription at this link https://github.com/NderituMwanu/AKAN-NAMES.
+You can access the link to the website directly by clicking on it in the project decription at this link https://github.com/NderituMwanu/AKAN-NAMES. If you cant access this repository click on  https://nderitumwanu.github.io/AKAN-NAMES/ to go to the live page.
 
 As a second option, open your terminal and type git clone then paste this link https://github.com/NderituMwanu/AKAN-NAMES. 
 You have an exact copy of the repository on your local machine. Headover to index.html by typing cd location of your storage/download, then type in ls. After that type code . or atom . to open and view the code in VS Code or atom respectively. Similarly, you can directly double click the index.html file to open the page on your default set browser.<br>
