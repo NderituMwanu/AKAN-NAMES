@@ -5,7 +5,7 @@ function getDay(name){
     var MM = parseInt(document.getElementById("month").value);
     var DD =parseInt(document.getElementById("date").value);
 
-    if (year === ""|| year < 1 || month === "" ||month < 1 ||month > 12 || date ==="" || date < 1|| date > 31)
+    if (year === ""|| YY < 1 || MM === "" ||MM < 1 ||MM > 12 || MM ==="" || DD < 1|| DD > 31)
     {
         alert("check your data and try again");
     } else{
