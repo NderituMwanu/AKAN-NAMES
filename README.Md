@@ -1,4 +1,4 @@
-#PROJECT NAME; AKAN NAMES<br>
+<b>PROJECT NAME; AKAN NAMES<b><br>
 <hr>
 ##PROJECT DESCRIPTION
 Akan Names are generally Ghanean<br>
